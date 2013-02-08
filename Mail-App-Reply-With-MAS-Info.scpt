@@ -1,0 +1,1 @@
+/Users/luomat/Library/Application Scripts/com.apple.mail/Mail-App-Reply-With-MAS-Info.scpt
