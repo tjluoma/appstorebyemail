@@ -34,7 +34,7 @@ However, once you have it up and running, it only takes about a minute from the 
 
 ## There is another alternative!
 
-I have also done this using [Hazel](http://www.noodlesoft.com/hazel), [Drafts for iOS](https://itunes.apple.com/us/app/drafts/id502385074?mt=8), and Dropbox. It still requires a Mac for processing, but it does not require that Mail.app be running. If you're interested in that, let me know. (I plan to put it on Github too but haven't yet.)
+I have also done this using [Hazel](http://www.noodlesoft.com/hazel), [Drafts for iOS](https://itunes.apple.com/us/app/drafts/id502385074?mt=8), and Dropbox. It still requires a Mac for processing, but it does not require that Mail.app be running. If you're interested in that, go to <https://github.com/tjluoma/drafts2mas>.
 
 ## Setup (an overview)
 
